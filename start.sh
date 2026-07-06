@@ -1,2 +1,3 @@
 #!/bin/bash
-python live_leaderboard_server.py
+python3 live_leaderboard_server.py
+
