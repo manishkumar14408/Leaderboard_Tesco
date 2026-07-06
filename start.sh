@@ -1,2 +1,2 @@
-source .venv/bin/activate
+#!/bin/bash
 python live_leaderboard_server.py
