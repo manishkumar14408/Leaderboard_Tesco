@@ -1,3 +1,3 @@
 [start]
-cmd = "python3 live_leaderboard_server.py"
+start = "python3 live_leaderboard_server.py"
 
